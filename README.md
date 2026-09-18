@@ -1,0 +1,1 @@
+# GOF2-FHD-Android-64-bits
