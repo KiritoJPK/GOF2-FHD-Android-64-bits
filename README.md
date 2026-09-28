@@ -1,6 +1,6 @@
 # GOF2-FHD-Android-64-bits
 
-### This is a port for [this project](https://github.com/KiritoJPK/Galaxy-on-Fire-2-FULL-HD-Android) that uses a  [Dynarmic](https://github.com/azahar-emu/dynarmic) bridge; it is currently in the testing phase, so don't be surprised by visual or audio glitches. Thanks to Opera-Fan for the source code. Save files from the original 32-bit project do not work in this 64-bit project.
+### This is a port for [this project](https://github.com/KiritoJPK/Galaxy-on-Fire-2-FULL-HD-Android) that uses a  [Dynarmic](https://github.com/azahar-emu/dynarmic) bridge; it is currently in the testing phase, so don't be surprised by visual or audio glitches. Thanks to Opera-Fan for the source code.
 
 [![The Kaamo Club - Galaxy on Fire](https://dcbadge.limes.pink/api/server/N4F4aMQ6XP?style=flat)](https://discord.com/invite/N4F4aMQ6XP)
 [![X (formerly Twitter) Follow](https://img.shields.io/twitter/follow/KiritoJPK?style=flat&logo=x)](https://twitter.com/KiritoJPK)
